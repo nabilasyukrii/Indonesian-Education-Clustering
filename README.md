@@ -64,7 +64,7 @@ The map above visually represents the clustering results, categorized into four 
     * `cluster`: For computing clustering algorithms (PAM).
     * `tidyverse` (`dplyr`, `ggplot2`): For data manipulation and base plotting.
     * `fpc`: For cluster validation statistics.
-* **Data Source:** *(Contoh: Data Pokok Pendidikan (Dapodik) Kemendikbud & Badan Pusat Statistik (BPS), Tahun 202X)*
+* **Data Source:** *(Kemendikbud & Badan Pusat Statistik (BPS), Tahun 202X)*
 
 ---
 
