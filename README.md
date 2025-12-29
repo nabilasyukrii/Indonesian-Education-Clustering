@@ -40,7 +40,7 @@ Our analysis resulted in distinct clusters representing different tiers of educa
 * **Cluster 2 (Developing):** Provinces showing potential but lacking in specific facilities.
 * **Cluster 3 (Needs Improvement):** Regions requiring prioritized government intervention.
 
-> **Note:** Detailed visualizations and the list of provinces per cluster can be found in the [Results Folder](./output) or the presentation deck.
+> **Note:** Detailed visualizations and the list of provinces per cluster can be found in the [Results Folder](./clustering-kmeans) or the presentation deck.
 
 ---
 
